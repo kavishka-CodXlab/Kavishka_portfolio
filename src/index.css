@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px; /* This accounts for the fixed header */
+}
+body {
+  @apply bg-gray-900;
+}
