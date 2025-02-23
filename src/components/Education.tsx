@@ -6,7 +6,7 @@ export const Education = () => {
     degree: "Bachelor of Science in Computer Science",
     institution: "University of Bedfordshire",
     period: "2025 - Present",
-    description: "Focus on Software Engineering and Data Structures",
+    description: "Specialized on Software Engineering and Data Structures",
     achievements: ["IEEE Computer Society Member", ]
   }, {
     degree: "Foundation Diploma ",
