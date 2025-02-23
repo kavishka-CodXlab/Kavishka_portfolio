@@ -46,7 +46,7 @@ export const Hero = () => {
             href: "#"
           }, {
             Icon: Mail,
-            href: "#"
+            href: "tkavishka101@gmail.com"
           }].map(({
             Icon,
             href
