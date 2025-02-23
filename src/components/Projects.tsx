@@ -4,19 +4,19 @@ import { motion } from "framer-motion";
 export const Projects = () => {
   const projects = [{
     title: "AI Chat Application",
-    description: "A real-time chat application with AI-powered responses using React and OpenAI API. UPDATE SOON",
+    description: "A real-time chat application with AI-powered responses using React and OpenAI API. [UPDATE SOON]",
     tags: ["React", "Node.js", "OpenAI", "WebSocket"],
     github: "#",
     demo: "#"
   }, {
     title: " Text to Image Generator SaaS React App",
-    description: "Full Stack AI React project created user authentication using MongoDB, Express, React and Node JS",
+    description: "Full Stack AI React project created user authentication using MongoDB, Express, React and Node JS [UPDATE SOON]",
     tags: ["TypeScript", "Clipdrop API", "MongoDB"],
     github: "#",
     demo: "#"
   }, {
     title: "Student Portal",
-    description: "A comprehensive student management system with course registration and grade tracking.UPDATE SOON",
+    description: "A comprehensive student management system with course registration and grade tracking.[UPDATE SOON]",
     tags: ["React", "Firebase", "Material-UI"],
     github: "#",
     demo: "#"
