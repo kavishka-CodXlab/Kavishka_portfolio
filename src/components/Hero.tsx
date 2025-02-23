@@ -43,7 +43,7 @@ export const Hero = () => {
             href: "#"
           }, {
             Icon: Linkedin,
-            href: "#"
+            href: "https://www.linkedin.com/in/kavishka-thilakarathna-05a575290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium"
           }, {
             Icon: Mail,
             href: "tkavishka101@gmail.com"
