@@ -5,7 +5,7 @@
 
 Welcome to my professional portfolio repository! This space showcases my journey as a developer, featuring projects I've built, skills I've mastered, and experiences I've gained in the world of software development.
 
-![Portfolio Screenshot](/assets/screenshot.png) <!-- Add your screenshot path -->
+
 
 ## 🌟 Highlights
 
@@ -47,7 +47,6 @@ Access the live portfolio at:https://infokavishka.netlify.app/
 
 
 📚 Project Structure
-
 ├── assets/
 │   ├── css/        # Stylesheets
 │   ├── js/         # JavaScript files
