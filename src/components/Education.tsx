@@ -6,14 +6,14 @@ export const Education = () => {
     degree: "Bachelor of Science in Computer Science",
     institution: "University of Bedfordshire",
     period: "2025 - Present",
-    description: "Specialized on Software Engineering and Data Structures",
+    description: "Specialized in Software Engineering and Data Structures",
     achievements:["IEEE Computer Society Member", ]
   }, {
     degree: "Foundation Diploma ",
     institution: "Edith Cowan University",
     period: "2023 - 2024",
     description: "Advanced Mathematics and Computer Science",
-    achievements: ["Merit Passed 🎖", "....."]
+    achievements: ["Merit Pass 🎖", "....."]
   }];
   return <section id="education" className="py-20 bg-gray-900">
       <div className="container mx-auto px-6">
