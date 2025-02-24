@@ -25,7 +25,7 @@ Welcome to my professional portfolio repository! This space showcases my journey
 
 **Development Tools:**
 - Git Version Control
-- GitHub Pages Hosting
+- netlify Pages Hosting
 - VS Code Editor
 - Chrome DevTools
 
