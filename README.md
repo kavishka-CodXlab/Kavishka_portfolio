@@ -81,4 +81,7 @@ LinkedIn:(https://www.linkedin.com/in/kavishka-thilakarathna-05a575290?utm_sourc
 GitHub: @kavishka-CodXlab
 
 Instergrame: @KavishkaThilakarathna
+
+**⭐ Don't forget to star the repo if you find it useful!**
+**💡 Suggestions and feature requests are always welcome!**
   
