@@ -9,7 +9,7 @@ export const Education = () => {
     description: "Specialized in Software Engineering and Data Structures",
     achievements:["", ]
   }, {
-    degree: "Foundation Diploma (Eng) ",
+    degree: "Foundation Diploma (Eng)",
     institution: "Edith Cowan University",
     period: "2023 - 2024",
     description: "Advanced Mathematics and Computer Science",
