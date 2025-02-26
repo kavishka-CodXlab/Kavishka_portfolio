@@ -6,8 +6,10 @@ import { Skills } from "./components/Skills";
 import { Projects } from "./components/Projects";
 import { Education } from "./components/Education";
 import { Contact } from "./components/Contact";
+
 export function App() {
-  return <div className="bg-gray-900 min-h-screen w-full">
+  return (
+    <div className="bg-gray-900 min-h-screen w-full">
       <Header />
       <main className="relative scroll-smooth">
         <Hero />
@@ -17,5 +19,6 @@ export function App() {
         <Education />
         <Contact />
       </main>
-    </div>;
+    </div>
+  );
 }
