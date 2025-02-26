@@ -40,13 +40,13 @@ export const Hero = () => {
         }} className="flex justify-center space-x-4 mb-12">
             {[{
             Icon: Github,
-            href: "#"
+            href: "https://github.com/kavishka-CodXlab"
           }, {
             Icon: Linkedin,
-            href: "#"
+            href: "https://www.linkedin.com/in/kavishka-thilakarathna-05a575290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium"
           }, {
             Icon: Mail,
-            href: "#"
+            href:"https://mail.google.com/mail/mu/mp/590/#co"
           }].map(({
             Icon,
             href
