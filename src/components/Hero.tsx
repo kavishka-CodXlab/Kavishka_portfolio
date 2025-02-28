@@ -67,12 +67,12 @@ export const Hero = () => {
         }} transition={{
           delay: 0.9
         }} className="inline-block">
-            <code className="text-sm md:text-base bg-gray-800/80 p-4 rounded-lg text-left backdrop-blur-sm shadow-xl">
+            <code className="text-sm md:text-base bg-gray-800/80 p-2 rounded-lg text-left backdrop-blur-sm shadow-xl">
               <span className="text-pink-400">const</span>{" "}
               <span className="text-blue-400">developer</span> = {"{"}
               <br />
               &nbsp;&nbsp;<span className="text-green-400">passion:</span>{" "}
-              <span className="text-yellow-400">'coding'</span>,
+              <span className="text-yellow-400">'coding'</span>
               <br />
               &nbsp;&nbsp;<span className="text-green-400">learning:</span>{" "}
               <span className="text-yellow-400">'always'</span>
