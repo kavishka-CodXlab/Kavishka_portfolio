@@ -7,13 +7,13 @@ export const Education = () => {
     institution: "University of Bedfordshire",
     period: "2025 - Present",
     description: "Specialized in Software Engineering and Data Structures",
-    achievements:["IEEE Computer Society Member", ]
+    achievements:["IEEE Computer Society Member", "" ]
   }, {
     degree: "Foundation Diploma (Eng)",
     institution: "Edith Cowan University",
     period: "2023 - 2024",
     description: "Advanced Mathematics and Computer Science",
-    achievements: ["Merit Pass 🎖", "....."]
+    achievements: ["Merit Pass 🎖", ""]
   }];
   return <section id="education" className="py-20 bg-gray-900">
       <div className="container mx-auto px-6">
