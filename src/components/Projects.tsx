@@ -11,7 +11,7 @@ export const Projects = () => {
   }, {
     title: " Text to Image Generator SaaS React App",
     description: "Full Stack AI React project created user authentication using MongoDB, Express, React and Node JS [UPDATE SOON]",
-    tags: ["TypeScript", "REST APIs", "MongoDB"],
+    tags: ["TypeScript", "MongoDB","Express.js","React", "Node.js","REST APIs"],
     github: "#",
     demo: "#"
   }, {
