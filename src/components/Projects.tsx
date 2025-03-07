@@ -17,7 +17,7 @@ export const Projects = () => {
   }, {
     title: "Student Portal",
     description: "A comprehensive student management system with course registration and grade tracking.[UPDATE SOON]",
-    tags: ["React", "Firebase", "Material-UI"],
+    tags: ["React","Firebase", "Material-UI"],
     github: "#",
     demo: "#"
   }];
