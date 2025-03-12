@@ -51,7 +51,7 @@ export const About = () => {
               Currently pursuing my degree in Computer Science, I focus on
               creating efficient, user-friendly solutions while constantly
               learning new technologies and best practices in software
-              development.877
+              development.
             </p>
           </motion.div>
           <motion.div initial={{
@@ -63,7 +63,7 @@ export const About = () => {
         }} viewport={{
           once: true
         }} className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-            {features.map((feature, index) => <div key={index} className="p-6 bg-gray-900 rounded-lg hover:shadow-xl hover:shadow-blue-500/10 transition-all duration-200">
+            {features.map((feature, index) => <div key={index} className="p-6 bg-gray-900 rounded-lg hover:shadow-xl hover:shadow-blue-500/10 transition-all duration-300">
                 <feature.icon className="w-8 h-8 text-blue-400 mb-4" />
                 <h3 className="text-lg font-semibold text-white mb-2">
                   {feature.title}
