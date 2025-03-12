@@ -42,7 +42,7 @@ export const About = () => {
         }} viewport={{
           once: true
         }} className="space-y-6">
-            <p className="text-gray-300 leading-relaxed">
+            <p className="text-gray-200 leading-relaxed">
               I'm a passionate Computer Science student with a keen interest in
               software development and problem-solving. I'm diving deep into programming, data structures, and algorithms, 
               while my hands-on experience in UI/UX design keeps me agile and adaptable.
